@@ -15,6 +15,7 @@
 *.ppt
 *.pptx
 *.zip
+*.html
 anon.R
 metadata.yaml
 
